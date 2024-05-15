@@ -1,0 +1,2 @@
+# Email Spam Filtering with ML
+This GitHub repository serves as the home for our email spam filtering project utilizing Machine Learning (ML) techniques. We employ comprehensive data preprocessing and incorporate various classifiers such as Logistic Regression, Support Vector Machine (SVM), Decision Trees, K-Nearest Neighbors (KNN), Random Forest, and Naive Bayes to achieve precise spam detection.
